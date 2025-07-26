@@ -1,0 +1,6 @@
+numpy
+opencv-python
+nibabel
+gym==0.26.2
+stable-baselines3
+torch
